@@ -22,7 +22,6 @@
 
 |      Режим     |           Значение                  |
 |----------------|-------------------------------------|
-| Локальный      | `NetworkPath=` (пусто)              |
 | Сетевой (UNC)  | `NetworkPath=\\SERVER\Examify\data` |
 | Локальный диск | `NetworkPath=D:\Examify\data`       |
 
